@@ -18,15 +18,25 @@
 5. use `tree` to see the structure.
 6. remove `mysc` folder.
 
+</br>
+
 > wget github.com 
+>
 > ls
+> 
 > cp index.html ~/wk/github.com
-ls
+> 
+> ls
+> 
 > mkdir mysc
+> 
 > mv github.com ~/wk/mysc/
+> 
 > tree
+> 
 > rm -r mysc/
-ls
+> 
+> ls
 
 ---
 
